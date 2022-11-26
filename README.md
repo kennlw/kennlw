@@ -1,4 +1,4 @@
-# Hi there! I'm Kenneth! :smile:
+# Hi! I'm Kenneth!
 
 👋 I'm a machine learning developer based out of Maryland. 
 
